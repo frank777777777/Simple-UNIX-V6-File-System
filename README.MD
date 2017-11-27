@@ -26,3 +26,13 @@ This V6 file system will support the following commands
         example: rm v6
 
 6. q
+<br>
+<img src="fsaccessTestResult-2.jpg">
+<br>
+<img src="fsaccessTestResult-3.jpg">
+<br>
+<img src="fsaccessTestResult-4.jpg">
+<br>
+<img src="fsaccessTestResult-5.jpg">
+<br>
+<img src="fsaccessTestResult-6.jpg">

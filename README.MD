@@ -27,7 +27,7 @@ This V6 file system will support the following commands
 
 6. q
 <br>
-<img src="images/img1.jpg">
+<img src="images/img1.jpeg" width="500">
 <br>
 <img src="images/img2.jpg">
 <br>

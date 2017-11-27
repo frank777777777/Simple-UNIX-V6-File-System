@@ -27,12 +27,12 @@ This V6 file system will support the following commands
 
 6. q
 <br>
-<img src="images/fsaccessTestResult-2.jpg">
+<img src="images/img1.jpg">
 <br>
-<img src="images/fsaccessTestResult-3.jpg">
+<img src="images/img2.jpg">
 <br>
-<img src="images/fsaccessTestResult-4.jpg">
+<img src="images/img3.jpg">
 <br>
-<img src="images/fsaccessTestResult-5.jpg">
+<img src="images/img4.jpg">
 <br>
-<img src="images/fsaccessTestResult-6.jpg">
+<img src="images/img5.jpg">
